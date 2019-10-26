@@ -1,6 +1,6 @@
 {
   "include": [
-    "./index.tsx"
+    "src/index.tsx"
   ],
   "compilerOptions": {
     "sourceMap": false,
@@ -9,6 +9,7 @@
     "esModuleInterop": true,
     "target": "es5",
     "declaration": true,
-    "jsx": "react"
-  }
+    "jsx": "react",
+    "outDir": "dist"
+    }
 }

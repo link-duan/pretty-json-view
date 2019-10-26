@@ -17,5 +17,12 @@
   "repository": {
     "url": "https://github.com/link-duan/pretty-json-view",
     "type": "github"
-  }
+  },
+  "keywords": [
+    "json",
+    "json-view",
+    "json-component",
+    "react",
+    "component"
+  ]
 }

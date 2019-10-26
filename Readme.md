@@ -4,7 +4,7 @@ This is a react component for displaying json
 ## Get Started
 ### Install
 ```bash
-npm i -d pretty-json-view
+npm i pretty-json-view
 ```
 
 ### Usage

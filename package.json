@@ -11,8 +11,16 @@
   },
   "main": "dist/index.js",
   "types": "types/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
   "files": [
-    "./dist/index.js",
-    "./types/index.d.ts"
-  ]
+    "./index.js",
+    "./index.d.ts",
+    "./Readme.md"
+  ],
+  "repository": {
+    "url": "https://github.com/link-duan/pretty-json-view",
+    "type": "github"
+  }
 }

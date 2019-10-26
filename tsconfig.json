@@ -3,14 +3,12 @@
     "./index.tsx"
   ],
   "compilerOptions": {
-    "outDir": "./dist/",
     "sourceMap": false,
     "noImplicitAny": true,
     "module": "commonjs",
     "esModuleInterop": true,
     "target": "es5",
     "declaration": true,
-    "declarationDir": "./types",
     "jsx": "react"
   }
 }

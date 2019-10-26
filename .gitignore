@@ -2,5 +2,3 @@ node_modules/
 .idea/
 dist/
 types/
-index.d.ts
-index.js

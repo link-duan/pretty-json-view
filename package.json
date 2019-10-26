@@ -1,6 +1,6 @@
 {
   "name": "pretty-json-view",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "devDependencies": {
     "@types/react": "16.9.11",

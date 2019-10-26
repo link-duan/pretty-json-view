@@ -39,4 +39,5 @@ export class Hello extends Component {
 ```
 
 It will show like this:
+
 ![](doc/example.png)
